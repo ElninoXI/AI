@@ -6,6 +6,7 @@ Current versions of all skills. Agents can compare against local versions to che
 |-------|---------|--------------|
 | ab-test-setup | 1.0.0 | 2026-01-27 |
 | canvas-design | 1.0.0 | 2026-02-18 |
+| csv-data-summarizer | 1.0.0 | 2026-02-18 |
 | analytics-tracking | 1.0.0 | 2026-01-27 |
 | competitor-alternatives | 1.0.0 | 2026-01-27 |
 | content-strategy | 1.0.0 | 2026-01-27 |
@@ -35,6 +36,7 @@ Current versions of all skills. Agents can compare against local versions to che
 
 ### 2026-02-18
 - Added canvas-design skill (HTML5 Canvas API design patterns for marketing)
+- Added csv-data-summarizer skill (automatic CSV analysis with pandas and visualizations)
 
 ### 2026-01-27
 - Initial version tracking added
