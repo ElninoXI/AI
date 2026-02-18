@@ -25,6 +25,7 @@ Skills are markdown files that give AI agents specialized knowledge and workflow
 | [content-strategy](skills/content-strategy/) | When the user wants to plan a content strategy, decide what content to create, or figure out what topics to cover. Also... |
 | [copy-editing](skills/copy-editing/) | When the user wants to edit, review, or improve existing marketing copy. Also use when the user mentions 'edit this... |
 | [copywriting](skills/copywriting/) | When the user wants to write, rewrite, or improve marketing copy for any page — including homepage, landing pages,... |
+| [email-campaign](skills/email-campaign/) | When the user wants to plan, write, or execute a one-time email campaign, promotional blast, newsletter, or broadcast email. Also use when the user mentions "email campaign," "email blast," "promotional email," "newsletter campaign," or "broadcast email." For automated drip sequences, see email-sequence.
 | [email-sequence](skills/email-sequence/) | When the user wants to create or optimize an email sequence, drip campaign, automated email flow, or lifecycle email... |
 | [form-cro](skills/form-cro/) | When the user wants to optimize any form that is NOT signup/registration — including lead capture forms, contact forms,... |
 | [free-tool-strategy](skills/free-tool-strategy/) | When the user wants to plan, evaluate, or build a free tool for marketing purposes — lead generation, SEO value, or... |
@@ -166,6 +167,7 @@ You can also invoke skills directly:
 ### Content & Copy
 - `copywriting` - Marketing page copy
 - `copy-editing` - Edit and polish existing copy
+- `email-campaign` - One-time email campaigns and broadcasts
 - `email-sequence` - Automated email flows
 - `social-content` - Social media content
 

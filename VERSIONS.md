@@ -10,6 +10,7 @@ Current versions of all skills. Agents can compare against local versions to che
 | content-strategy | 1.0.0 | 2026-01-27 |
 | copy-editing | 1.0.0 | 2026-01-27 |
 | copywriting | 1.0.0 | 2026-01-27 |
+| email-campaign | 1.0.0 | 2026-02-18 |
 | email-sequence | 1.0.0 | 2026-01-27 |
 | form-cro | 1.0.0 | 2026-01-27 |
 | free-tool-strategy | 1.0.0 | 2026-01-27 |
@@ -31,6 +32,9 @@ Current versions of all skills. Agents can compare against local versions to che
 | social-content | 1.0.0 | 2026-01-27 |
 
 ## Recent Changes
+
+### 2026-02-18
+- Added email-campaign skill for one-time email campaign planning
 
 ### 2026-01-27
 - Initial version tracking added
