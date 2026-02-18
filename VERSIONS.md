@@ -5,6 +5,7 @@ Current versions of all skills. Agents can compare against local versions to che
 | Skill | Version | Last Updated |
 |-------|---------|--------------|
 | ab-test-setup | 1.0.0 | 2026-01-27 |
+| canvas-design | 1.0.0 | 2026-02-18 |
 | analytics-tracking | 1.0.0 | 2026-01-27 |
 | competitor-alternatives | 1.0.0 | 2026-01-27 |
 | content-strategy | 1.0.0 | 2026-01-27 |
@@ -31,6 +32,9 @@ Current versions of all skills. Agents can compare against local versions to che
 | social-content | 1.0.0 | 2026-01-27 |
 
 ## Recent Changes
+
+### 2026-02-18
+- Added canvas-design skill (HTML5 Canvas API design patterns for marketing)
 
 ### 2026-01-27
 - Initial version tracking added

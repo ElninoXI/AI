@@ -19,7 +19,8 @@ Skills are markdown files that give AI agents specialized knowledge and workflow
 <!-- SKILLS:START -->
 | Skill | Description |
 |-------|-------------|
-| [ab-test-setup](skills/ab-test-setup/) | When the user wants to plan, design, or implement an A/B test or experiment. Also use when the user mentions "A/B... |
+| [ab-test-setup](skills/ab-test-setup/) | When the user wants to plan, design, or implement an A/B test or experiment. Also use when the user mentions "A/B...
+| [canvas-design](skills/canvas-design/) | When the user wants to create visual graphics using the HTML5 Canvas API — including charts, illustrations, animations,... |
 | [analytics-tracking](skills/analytics-tracking/) | When the user wants to set up, improve, or audit analytics tracking and measurement. Also use when the user mentions... |
 | [competitor-alternatives](skills/competitor-alternatives/) | When the user wants to create competitor comparison or alternative pages for SEO and sales enablement. Also use when... |
 | [content-strategy](skills/content-strategy/) | When the user wants to plan a content strategy, decide what content to create, or figure out what topics to cover. Also... |
@@ -186,6 +187,7 @@ You can also invoke skills directly:
 ### Growth Engineering
 - `free-tool-strategy` - Marketing tools and calculators
 - `referral-program` - Referral and affiliate programs
+- `canvas-design` - HTML5 Canvas graphics and animations
 
 ### Strategy & Monetization
 - `marketing-ideas` - 140 SaaS marketing ideas
