@@ -44,6 +44,12 @@ Skills are markdown files that give AI agents specialized knowledge and workflow
 | [seo-audit](skills/seo-audit/) | When the user wants to audit, review, or diagnose SEO issues on their site. Also use when the user mentions "SEO... |
 | [signup-flow-cro](skills/signup-flow-cro/) | When the user wants to optimize signup, registration, account creation, or trial activation flows. Also use when the... |
 | [social-content](skills/social-content/) | When the user wants help creating, scheduling, or optimizing social media content for LinkedIn, Twitter/X, Instagram,... |
+| [account-based-marketing](skills/account-based-marketing/) | When the user wants to run ABM, target specific companies with personalized campaigns, build a target account list, or align sales and marketing around named accounts... |
+| [b2b-cold-outreach](skills/b2b-cold-outreach/) | When the user wants to write cold email sequences, LinkedIn outreach messages, or multi-channel B2B prospecting sequences... |
+| [b2b-lead-generation](skills/b2b-lead-generation/) | When the user wants to build, improve, or systematize B2B lead generation — ICP definition, TAM sizing, outbound strategy, lead scoring, and pipeline building... |
+| [b2b-seo](skills/b2b-seo/) | When the user wants to build or improve SEO for a B2B SaaS or software company — comparison pages, competitor alternatives, use-case pages, integration pages, and ROI calculators... |
+| [demand-generation](skills/demand-generation/) | When the user wants to build or improve B2B demand generation programs — inbound pipeline, MQL/SQL funnel, content-driven demand, webinars, paid demand gen, or marketing attribution... |
+| [sales-enablement](skills/sales-enablement/) | When the user wants to create or improve sales materials — battle cards, case studies, one-pagers, pitch decks, or objection handling guides... |
 <!-- SKILLS:END -->
 
 ## Pre-built .skill Files
@@ -192,6 +198,14 @@ You can also invoke skills directly:
 - `marketing-psychology` - Mental models and psychology
 - `launch-strategy` - Product launches and announcements
 - `pricing-strategy` - Pricing, packaging, and monetization
+
+### B2B Marketing
+- `b2b-lead-generation` - ICP definition, TAM sizing, outbound strategy, lead scoring
+- `account-based-marketing` - ABM strategy, target account lists, named account campaigns
+- `b2b-cold-outreach` - Cold email and LinkedIn outreach sequences for B2B
+- `demand-generation` - MQL/SQL funnel, inbound pipeline, nurture programs
+- `sales-enablement` - Battle cards, case studies, one-pagers, pitch decks, objection handling
+- `b2b-seo` - Comparison pages, use-case pages, integration pages, ROI calculators
 
 ## Contributing
 

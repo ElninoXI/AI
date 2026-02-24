@@ -12,7 +12,7 @@
   "plugins": [
     {
       "name": "marketing-skills",
-      "description": "25 marketing skills for technical marketers and founders: CRO, copywriting, SEO, paid ads, pricing strategy, referral programs, and more",
+      "description": "31 marketing skills for technical marketers and founders: CRO, copywriting, SEO, paid ads, pricing strategy, referral programs, B2B lead generation, ABM, sales enablement, cold outreach, demand generation, and more",
       "source": "./",
       "strict": false,
       "skills": [
@@ -40,7 +40,13 @@
         "./skills/schema-markup",
         "./skills/seo-audit",
         "./skills/signup-flow-cro",
-        "./skills/social-content"
+        "./skills/social-content",
+        "./skills/account-based-marketing",
+        "./skills/b2b-cold-outreach",
+        "./skills/b2b-lead-generation",
+        "./skills/b2b-seo",
+        "./skills/demand-generation",
+        "./skills/sales-enablement"
       ]
     }
   ]
